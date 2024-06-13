@@ -1,0 +1,10 @@
+^C:\USERS\НИКИТА\DOCUMENTS\C++\ZADCLASSKCPP\BUILD\CMAKEFILES\B903C62C3EA525657E93792901616AC2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Никита/Documents/C++/ZadClassKcpp -BC:/Users/Никита/Documents/C++/ZadClassKcpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Никита/Documents/C++/ZadClassKcpp/build/ZadClassKcpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

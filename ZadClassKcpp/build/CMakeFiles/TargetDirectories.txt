@@ -1,0 +1,3 @@
+C:/Users/Никита/Documents/C++/ZadClassKcpp/build/CMakeFiles/main.dir
+C:/Users/Никита/Documents/C++/ZadClassKcpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Никита/Documents/C++/ZadClassKcpp/build/CMakeFiles/ZERO_CHECK.dir
